@@ -1,0 +1,14 @@
+Modifies the elements
+ in the array pointed
+  by s and the stream object.
+Concurrent access to the
+same stream object may
+ cause data races, except
+ for the standard stream
+ object cin when this is
+ synchronized with stdio
+ (in this case, no data races are initiated,
+  although no guarantees are given on the order
+   in which
+extracted characters are attributed
+ to threads).

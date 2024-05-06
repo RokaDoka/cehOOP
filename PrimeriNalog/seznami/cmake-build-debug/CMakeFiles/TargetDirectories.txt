@@ -1,0 +1,3 @@
+C:/Users/1212r/OneDrive/Namizje/clionprojects-ceh-master/seznami/cmake-build-debug/CMakeFiles/seznami.dir
+C:/Users/1212r/OneDrive/Namizje/clionprojects-ceh-master/seznami/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/1212r/OneDrive/Namizje/clionprojects-ceh-master/seznami/cmake-build-debug/CMakeFiles/rebuild_cache.dir

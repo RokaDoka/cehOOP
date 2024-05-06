@@ -1,0 +1,7 @@
+# ninja log v5
+1	293	1705410876639919854	CMakeFiles/oddelek.dir/cpp/dijak.cpp.o	a5d087815529bc5b
+1	250	1705404690172307333	CMakeFiles/oddelek.dir/dijak.cpp.o	e628f2c18cbfcca5
+0	341	1705480844495715365	CMakeFiles/oddelek.dir/cpp/odelek.cpp.o	beedab50786c52d6
+0	16	1705483390208907628	build.ninja	3819e3373a219c0e
+0	331	1705480516865499608	CMakeFiles/oddelek.dir/main.cpp.o	b19cd7d1096ec0ab
+342	410	1705480844563715824	oddelek	855ce8de939278c1

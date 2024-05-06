@@ -1,0 +1,3 @@
+/home/marjan/CLionProjects/oddelek/cmake-build-debug/CMakeFiles/oddelek.dir
+/home/marjan/CLionProjects/oddelek/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marjan/CLionProjects/oddelek/cmake-build-debug/CMakeFiles/rebuild_cache.dir

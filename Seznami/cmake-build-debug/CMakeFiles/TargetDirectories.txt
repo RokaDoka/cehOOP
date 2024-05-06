@@ -1,0 +1,3 @@
+C:/Users/1212r/CLionProjects/Seznami/cmake-build-debug/CMakeFiles/Seznami.dir
+C:/Users/1212r/CLionProjects/Seznami/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/1212r/CLionProjects/Seznami/cmake-build-debug/CMakeFiles/rebuild_cache.dir

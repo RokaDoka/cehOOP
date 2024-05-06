@@ -1,0 +1,15 @@
+lep dan je danes
+lep dan je danes
+lep dan je danes
+lep dan je danes
+lep dan je danes
+lep dan je danes
+lep dan je danes
+lep dan je danes
+lep dan je danes
+lep dan je danes
+Modifies the elements in the array pointed  by s and the stream object.Concurrent access to thesame stream object may cause data races, except for the standard stream object cin when this is synchronized with stdio (in this case, no data races are initiated,  although no guarantees are given on the order   in whichextracted characters are attributed to threads).lep dan je danes
+0x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca000x7ffc8a9fca00lep dan je danes
+Modifies the elements in the array pointed  by s and the stream object.Concurrent access to thesame stream object may cause data races, except for the standard stream object cin when this is synchronized with stdio (in this case, no data races are initiated,  although no guarantees are given on the order   in whichextracted characters are attributed to threads).lep dan je danes
+lep dan je danes
+Modifies the elements in the array pointed  by s and the stream object.Concurrent access to thesame stream object may cause data races, except for the standard stream object cin when this is synchronized with stdio (in this case, no data races are initiated,  although no guarantees are given on the order   in whichextracted characters are attributed to threads).

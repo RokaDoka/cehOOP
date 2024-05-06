@@ -1,0 +1,3 @@
+/home/marjan/CLionProjects/ood-dijak/cmake-build-debug/CMakeFiles/ood_dijak.dir
+/home/marjan/CLionProjects/ood-dijak/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marjan/CLionProjects/ood-dijak/cmake-build-debug/CMakeFiles/rebuild_cache.dir

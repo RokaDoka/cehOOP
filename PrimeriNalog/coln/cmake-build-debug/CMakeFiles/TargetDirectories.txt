@@ -1,0 +1,3 @@
+/home/marjan/CLionProjects/coln/cmake-build-debug/CMakeFiles/coln.dir
+/home/marjan/CLionProjects/coln/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marjan/CLionProjects/coln/cmake-build-debug/CMakeFiles/rebuild_cache.dir

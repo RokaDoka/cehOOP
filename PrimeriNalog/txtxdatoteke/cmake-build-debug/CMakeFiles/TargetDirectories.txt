@@ -1,0 +1,3 @@
+/home/marjan/CLionProjects/txtxdatoteke/cmake-build-debug/CMakeFiles/txtxdatoteke.dir
+/home/marjan/CLionProjects/txtxdatoteke/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marjan/CLionProjects/txtxdatoteke/cmake-build-debug/CMakeFiles/rebuild_cache.dir

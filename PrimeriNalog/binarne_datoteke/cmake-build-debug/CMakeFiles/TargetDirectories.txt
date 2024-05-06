@@ -1,0 +1,3 @@
+/home/marjan/CLionProjects/binarne_datoteke/cmake-build-debug/CMakeFiles/binarne_datoteke.dir
+/home/marjan/CLionProjects/binarne_datoteke/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marjan/CLionProjects/binarne_datoteke/cmake-build-debug/CMakeFiles/rebuild_cache.dir

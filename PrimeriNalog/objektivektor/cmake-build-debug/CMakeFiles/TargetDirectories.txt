@@ -1,0 +1,3 @@
+/home/marjan/CLionProjects/objektivektor/cmake-build-debug/CMakeFiles/objektivektor.dir
+/home/marjan/CLionProjects/objektivektor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marjan/CLionProjects/objektivektor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
